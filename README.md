@@ -23,6 +23,25 @@ phones:
   - name: 石墨色
     code: MLH83CH/A
 ```
-2. 运行: `.oh-my-apple-store loop`
+
+2. 下载 `.oh-my-apple-store` 并在该程序目录新建 `cookies.json` 文件，利用 `EditThsiCookie` 插件导出 cookies，形如:
+```json
+[{
+    "domain": ".apple.com.cn",
+    "expirationDate": 1663954303.104427,
+    "hostOnly": false,
+    "httpOnly": true,
+    "name": "acn01",
+    "path": "/",
+    "sameSite": "unspecified",
+    "secure": true,
+    "session": false,
+    "storeId": "0",
+    "value": "",
+    "id": 1
+}]
+```
+
+3. 运行: `.oh-my-apple-store loop`
 
 
