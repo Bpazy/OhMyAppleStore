@@ -1,6 +1,6 @@
 # OhMyAppleStore
-[![Test](https://github.com/Bpazy/oh-my-apple-store/workflows/Test/badge.svg)](https://github.com/Bpazy/oh-my-apple-store/actions/workflows/test.yml)
-[![Go Report Card](https://goreportcard.com/badge/github.com/Bpazy/oh-my-apple-store)](https://goreportcard.com/report/github.com/Bpazy/oh-my-apple-store)
+[![Go](https://github.com/Bpazy/OhMyAppleStore/actions/workflows/test.yml/badge.svg)](https://github.com/Bpazy/OhMyAppleStore/actions/workflows/test.yml)
+[![Go Report Card](https://goreportcard.com/badge/github.com/Bpazy/OhMyAppleStore)](https://goreportcard.com/report/github.com/Bpazy/OhMyAppleStore)
 
 我要抢 iPhone 自提
 
