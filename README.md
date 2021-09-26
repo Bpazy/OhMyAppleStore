@@ -2,7 +2,7 @@
 [![Go](https://github.com/Bpazy/OhMyAppleStore/actions/workflows/test.yml/badge.svg)](https://github.com/Bpazy/OhMyAppleStore/actions/workflows/test.yml)
 [![Go Report Card](https://goreportcard.com/badge/github.com/Bpazy/OhMyAppleStore)](https://goreportcard.com/report/github.com/Bpazy/OhMyAppleStore)
 
-我要抢 iPhone 自提
+我要抢 iPhone 自提，**本项目仅支持自提库存检测**。
 
 ## 预览
 当检测到有 **自提库存** 时，发送钉钉消息:
