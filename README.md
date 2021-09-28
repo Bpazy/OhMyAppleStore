@@ -13,8 +13,8 @@
 ```yaml
 # 钉钉机器人配置，需要群机器人使用加签模式
 dingtalk:
-  token: 
-  secret: 
+  token: 填入群机器人 access_token
+  secret: 填入群机器人选择“加签”选项后展示的密钥
 
 # 要检测自提的手机型号
 phones:
